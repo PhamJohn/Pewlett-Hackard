@@ -17,8 +17,7 @@ In light of these upcoming retirements, HR is also considering a mentorship prog
 
 ERD schema
 The image below is the ERD schema that was used to build queries for this challenge.
-
-ERD schema
+[[/EmployeeDB.png|ALT TEXT]]
 [[https://github.com/codepast12/Pewlett-Hackard/blob/main/EmployeeDB.png|alt=octocat]]
 Code and Outputs
 Refer to "Project" folder for .sql file for queries
